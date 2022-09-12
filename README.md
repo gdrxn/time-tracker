@@ -1,4 +1,4 @@
-Simple time tracker app
+Simple time tracker app made in Vue!
 
 ### Getting Started
 
